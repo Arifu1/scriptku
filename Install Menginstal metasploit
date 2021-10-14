@@ -1,0 +1,9 @@
+Cara Menginstall Metasploit di Termux
+Metasploit adalah tools hacking yang dapat di gunakan untuk kegiatan seperti remote pc atau hp orang lain, membuat virus, menyadap dan lain sebagainya.
+
+Cara Install dan Menjalankannya
+
+pkg install curl
+curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh
+chmod +x metasploit.sh
+./metasploit.sh
